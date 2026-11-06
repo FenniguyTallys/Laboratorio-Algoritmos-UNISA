@@ -1,0 +1,15 @@
+﻿Base;Algoritmo;Registros;Tempo médio (ms);Desvio padrão (ms);Comparações;Movimentações;Execuções
+Ordenada;Bubble Sort;1000;0.0731;0.014022;999;0;5
+Ordenada;Selection Sort;1000;31.19904;1.87916;499500;0;5
+Ordenada;Insertion Sort;1000;0.12344;0.001893;999;999;5
+Ordenada;Shell Sort;1000;1.01076;0.198298;8006;8006;5
+Ordenada;Merge Sort;1000;2.57504;0.634226;4932;9976;5
+Ordenada;Quick Sort;1000;51.0552;5.559355;499500;0;5
+Ordenada;Heap Sort;1000;3.41504;0.47481;17583;19416;5
+Desordenada;Bubble Sort;1000;59.2349;3.53786;499149;496890;5
+Desordenada;Selection Sort;1000;30.63266;1.261555;499500;1990;5
+Desordenada;Insertion Sort;1000;31.1559;1.242108;249438;249444;5
+Desordenada;Shell Sort;1000;2.20828;0.153014;15237;15763;5
+Desordenada;Merge Sort;1000;2.7435;0.274061;8715;9976;5
+Desordenada;Quick Sort;1000;1.57644;0.098281;11515;10086;5
+Desordenada;Heap Sort;1000;2.93022;0.143897;16901;18230;5

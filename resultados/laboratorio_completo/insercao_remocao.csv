@@ -1,0 +1,43 @@
+﻿registros;estrutura;operacao;posicao;tempo_medio_us;operacoes;unidade;repeticoes
+1000;Lista Python;Insercao;Inicio;2.27333;1000;deslocamentos;15
+1000;Lista Python;Insercao;Meio;1.00667;500;deslocamentos;15
+1000;Lista Python;Insercao;Fim;0.64;0;deslocamentos;15
+1000;Lista Python;Remocao;Inicio;0.54667;999;deslocamentos;15
+1000;Lista Python;Remocao;Meio;13.58;499;deslocamentos;15
+1000;Lista Python;Remocao;Fim;0.26667;0;deslocamentos;15
+1000;Lista encadeada;Insercao;Inicio;1.80667;0;visitas_a_nos;15
+1000;Lista encadeada;Insercao;Meio;16.25333;500;visitas_a_nos;15
+1000;Lista encadeada;Insercao;Fim;39.24;1000;visitas_a_nos;15
+1000;Lista encadeada;Remocao;Inicio;0.69333;0;visitas_a_nos;15
+1000;Lista encadeada;Remocao;Meio;17.32;500;visitas_a_nos;15
+1000;Lista encadeada;Remocao;Fim;33.9;999;visitas_a_nos;15
+1000;Arvore BST;Insercao;Por ID;1.23333;5;comparacoes;15
+1000;Arvore BST;Remocao;Por ID;2.26;12;comparacoes;15
+10000;Lista Python;Insercao;Inicio;7.06;10000;deslocamentos;15
+10000;Lista Python;Insercao;Meio;3.67333;5000;deslocamentos;15
+10000;Lista Python;Insercao;Fim;2.06667;0;deslocamentos;15
+10000;Lista Python;Remocao;Inicio;2.06;9999;deslocamentos;15
+10000;Lista Python;Remocao;Meio;1.26667;4999;deslocamentos;15
+10000;Lista Python;Remocao;Fim;0.39333;0;deslocamentos;15
+10000;Lista encadeada;Insercao;Inicio;1.24;0;visitas_a_nos;15
+10000;Lista encadeada;Insercao;Meio;189.50667;5000;visitas_a_nos;15
+10000;Lista encadeada;Insercao;Fim;381.96667;10000;visitas_a_nos;15
+10000;Lista encadeada;Remocao;Inicio;6.80667;0;visitas_a_nos;15
+10000;Lista encadeada;Remocao;Meio;223.00667;5000;visitas_a_nos;15
+10000;Lista encadeada;Remocao;Fim;486.33333;9999;visitas_a_nos;15
+10000;Arvore BST;Insercao;Por ID;3.3;8;comparacoes;15
+10000;Arvore BST;Remocao;Por ID;3.31333;17;comparacoes;15
+100000;Lista Python;Insercao;Inicio;180.6;100000;deslocamentos;15
+100000;Lista Python;Insercao;Meio;157.76667;50000;deslocamentos;15
+100000;Lista Python;Insercao;Fim;112.44667;0;deslocamentos;15
+100000;Lista Python;Remocao;Inicio;38.48667;99999;deslocamentos;15
+100000;Lista Python;Remocao;Meio;15.68;49999;deslocamentos;15
+100000;Lista Python;Remocao;Fim;0.88667;0;deslocamentos;15
+100000;Lista encadeada;Insercao;Inicio;4.39333;0;visitas_a_nos;15
+100000;Lista encadeada;Insercao;Meio;2449.46667;50000;visitas_a_nos;15
+100000;Lista encadeada;Insercao;Fim;4648.77333;100000;visitas_a_nos;15
+100000;Lista encadeada;Remocao;Inicio;3.69333;0;visitas_a_nos;15
+100000;Lista encadeada;Remocao;Meio;2447.60667;50000;visitas_a_nos;15
+100000;Lista encadeada;Remocao;Fim;4696.38;99999;visitas_a_nos;15
+100000;Arvore BST;Insercao;Por ID;9.28;14;comparacoes;15
+100000;Arvore BST;Remocao;Por ID;18.46667;26;comparacoes;15

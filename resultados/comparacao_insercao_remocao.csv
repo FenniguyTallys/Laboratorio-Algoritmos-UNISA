@@ -1,0 +1,15 @@
+﻿Estrutura;Operação;Posição;Tempo médio (us);Desvio padrão (us);Operações estruturais;Repetições
+Lista Python;Inserção;Início;0.722;0.350348;1000;100
+Lista Python;Inserção;Meio;0.56;0.184774;500;100
+Lista Python;Inserção;Fim;0.408;0.107007;0;100
+Lista Python;Remoção;Início;0.463;0.269551;999;100
+Lista Python;Remoção;Meio;0.435;0.493877;499;100
+Lista Python;Remoção;Fim;0.253;0.08343;0;100
+Lista Encadeada;Inserção;Início;0.988;2.573222;0;100
+Lista Encadeada;Inserção;Meio;21.657;7.613455;500;100
+Lista Encadeada;Inserção;Fim;42.606;7.865457;1000;100
+Lista Encadeada;Remoção;Início;0.527;0.400468;0;100
+Lista Encadeada;Remoção;Meio;17.562;0.928753;500;100
+Lista Encadeada;Remoção;Fim;39.254;3.199634;999;100
+Árvore BST;Inserção;Por ID;1.105;0.143812;11;100
+Árvore BST;Remoção;Por ID;1.035;0.462181;8;100

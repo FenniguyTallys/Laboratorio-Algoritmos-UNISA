@@ -1,0 +1,73 @@
+﻿registros;base;algoritmo;caso;encontrado;comparacoes;tempo_medio_us
+1000;desordenada;Linear;primeiro;sim;800;86.8
+1000;desordenada;Linear;central;sim;359;43.8
+1000;desordenada;Linear;ultimo;sim;564;53.78
+1000;desordenada;Linear;ausente;nao;1000;91.2
+1000;desordenada;Linear recursiva;primeiro;sim;800;435.66
+1000;desordenada;Linear recursiva;central;sim;359;166.26
+1000;desordenada;Linear recursiva;ultimo;sim;564;250.84
+1000;desordenada;Linear recursiva;ausente;nao;1000;423.44
+1000;ordenada;Linear;primeiro;sim;1;1.16
+1000;ordenada;Linear;central;sim;501;38.62
+1000;ordenada;Linear;ultimo;sim;1000;91.4
+1000;ordenada;Linear;ausente;nao;1000;93.12
+1000;ordenada;Linear recursiva;primeiro;sim;1;3.58
+1000;ordenada;Linear recursiva;central;sim;501;244.98
+1000;ordenada;Linear recursiva;ultimo;sim;1000;406.62
+1000;ordenada;Linear recursiva;ausente;nao;1000;401.1
+1000;ordenada;Binaria;primeiro;sim;9;3.4
+1000;ordenada;Binaria;central;sim;9;2.2
+1000;ordenada;Binaria;ultimo;sim;10;2.42
+1000;ordenada;Binaria;ausente;nao;10;2.24
+1000;ordenada;Binaria recursiva;primeiro;sim;9;3.62
+1000;ordenada;Binaria recursiva;central;sim;9;3.26
+1000;ordenada;Binaria recursiva;ultimo;sim;10;3.6
+1000;ordenada;Binaria recursiva;ausente;nao;10;3.58
+10000;desordenada;Linear;primeiro;sim;2389;239.52
+10000;desordenada;Linear;central;sim;2431;263.6
+10000;desordenada;Linear;ultimo;sim;6834;735.84
+10000;desordenada;Linear;ausente;nao;10000;1211.88
+10000;desordenada;Linear recursiva;primeiro;sim;2389;1861.96
+10000;desordenada;Linear recursiva;central;sim;2431;1249.66
+10000;desordenada;Linear recursiva;ultimo;sim;6834;3828.34
+10000;desordenada;Linear recursiva;ausente;nao;10000;7865.28
+10000;ordenada;Linear;primeiro;sim;1;1.08
+10000;ordenada;Linear;central;sim;5001;541.58
+10000;ordenada;Linear;ultimo;sim;10000;1958.28
+10000;ordenada;Linear;ausente;nao;10000;1438.62
+10000;ordenada;Linear recursiva;primeiro;sim;1;5.56
+10000;ordenada;Linear recursiva;central;sim;5001;5865.74
+10000;ordenada;Linear recursiva;ultimo;sim;10000;21037.7
+10000;ordenada;Linear recursiva;ausente;nao;10000;5632.68
+10000;ordenada;Binaria;primeiro;sim;13;3.7
+10000;ordenada;Binaria;central;sim;13;3.76
+10000;ordenada;Binaria;ultimo;sim;14;3.64
+10000;ordenada;Binaria;ausente;nao;14;3.48
+10000;ordenada;Binaria recursiva;primeiro;sim;13;5.08
+10000;ordenada;Binaria recursiva;central;sim;13;39.04
+10000;ordenada;Binaria recursiva;ultimo;sim;14;5.24
+10000;ordenada;Binaria recursiva;ausente;nao;14;3.94
+100000;desordenada;Linear;primeiro;sim;95781;20041.14
+100000;desordenada;Linear;central;sim;65729;8334.26
+100000;desordenada;Linear;ultimo;sim;81504;55086.7
+100000;desordenada;Linear;ausente;nao;100000;16758.7
+100000;desordenada;Linear recursiva;primeiro;sim;95781;36521.36
+100000;desordenada;Linear recursiva;central;sim;65729;34989.22
+100000;desordenada;Linear recursiva;ultimo;sim;81504;60685.16
+100000;desordenada;Linear recursiva;ausente;nao;100000;38174.88
+100000;ordenada;Linear;primeiro;sim;1;1.24
+100000;ordenada;Linear;central;sim;50001;3830.62
+100000;ordenada;Linear;ultimo;sim;100000;8342.48
+100000;ordenada;Linear;ausente;nao;100000;9943.46
+100000;ordenada;Linear recursiva;primeiro;sim;1;5.42
+100000;ordenada;Linear recursiva;central;sim;50001;14414.16
+100000;ordenada;Linear recursiva;ultimo;sim;100000;32613.36
+100000;ordenada;Linear recursiva;ausente;nao;100000;30293.06
+100000;ordenada;Binaria;primeiro;sim;16;5.04
+100000;ordenada;Binaria;central;sim;16;4.48
+100000;ordenada;Binaria;ultimo;sim;17;4.3
+100000;ordenada;Binaria;ausente;nao;17;3.74
+100000;ordenada;Binaria recursiva;primeiro;sim;16;5.18
+100000;ordenada;Binaria recursiva;central;sim;16;5.98
+100000;ordenada;Binaria recursiva;ultimo;sim;17;8.52
+100000;ordenada;Binaria recursiva;ausente;nao;17;5.44
