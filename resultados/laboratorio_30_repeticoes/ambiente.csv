@@ -1,0 +1,11 @@
+﻿item;valor
+sistema_operacional;Windows-11-10.0.26300-SP0
+processador;Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+nucleos_logicos;12
+ram_total;7.72 GB
+python;3.13.7
+interpretador;C:\Users\MONTANNA\PycharmProjects\PythonProject\.venv\Scripts\python.exe
+ide;PyCharm (confirmar versao manualmente)
+repeticoes_por_cenario;30
+limite_por_execucao_ordenacao_segundos;3.0
+nota;"Tempo total inclui leitura, preparacao, exportacao e graficos; nao equivale ao tempo dos algoritmos."

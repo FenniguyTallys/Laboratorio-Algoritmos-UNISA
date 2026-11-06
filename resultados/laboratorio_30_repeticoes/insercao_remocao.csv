@@ -1,0 +1,43 @@
+﻿registros;estrutura;operacao;posicao;tempo_medio_us;tempo_mediana_us;tempo_desvio_padrao_us;operacoes;unidade;repeticoes
+1000;Lista Python;Insercao;Inicio;7.73;0.6;38.54423;1000;deslocamentos;30
+1000;Lista Python;Insercao;Meio;0.51667;0.5;0.22907;500;deslocamentos;30
+1000;Lista Python;Insercao;Fim;0.35333;0.3;0.13322;0;deslocamentos;30
+1000;Lista Python;Remocao;Inicio;6.22;0.4;31.55731;999;deslocamentos;30
+1000;Lista Python;Remocao;Meio;6.23333;0.4;32.06402;499;deslocamentos;30
+1000;Lista Python;Remocao;Fim;0.23;0.2;0.08367;0;deslocamentos;30
+1000;Lista encadeada;Insercao;Inicio;1.38;0.6;3.48568;0;visitas_a_nos;30
+1000;Lista encadeada;Insercao;Meio;16.52333;16.3;0.74772;500;visitas_a_nos;30
+1000;Lista encadeada;Insercao;Fim;35.71667;35.6;0.23354;1000;visitas_a_nos;30
+1000;Lista encadeada;Remocao;Inicio;0.53333;0.4;0.57914;0;visitas_a_nos;30
+1000;Lista encadeada;Remocao;Meio;16.46333;16.3;0.5455;500;visitas_a_nos;30
+1000;Lista encadeada;Remocao;Fim;36.51;36.4;0.41552;999;visitas_a_nos;30
+1000;Arvore BST;Insercao;Por ID;1.45;1.2;0.77002;5;comparacoes;30
+1000;Arvore BST;Remocao;Por ID;3.02333;1.55;6.48918;12;comparacoes;30
+10000;Lista Python;Insercao;Inicio;5.21333;3.9;2.72077;10000;deslocamentos;30
+10000;Lista Python;Insercao;Meio;2.16667;2.1;0.31659;5000;deslocamentos;30
+10000;Lista Python;Insercao;Fim;0.56667;0.5;0.19357;0;deslocamentos;30
+10000;Lista Python;Remocao;Inicio;2.0;2.0;0.12034;9999;deslocamentos;30
+10000;Lista Python;Remocao;Meio;1.68667;1.75;0.5853;4999;deslocamentos;30
+10000;Lista Python;Remocao;Fim;0.49;0.4;0.23096;0;deslocamentos;30
+10000;Lista encadeada;Insercao;Inicio;1.56333;1.25;0.75315;0;visitas_a_nos;30
+10000;Lista encadeada;Insercao;Meio;219.31;198.9;54.2549;5000;visitas_a_nos;30
+10000;Lista encadeada;Insercao;Fim;425.12333;404.0;46.95987;10000;visitas_a_nos;30
+10000;Lista encadeada;Remocao;Inicio;0.88333;0.7;0.47495;0;visitas_a_nos;30
+10000;Lista encadeada;Remocao;Meio;234.26;205.7;60.05078;5000;visitas_a_nos;30
+10000;Lista encadeada;Remocao;Fim;450.13667;437.95;39.7851;9999;visitas_a_nos;30
+10000;Arvore BST;Insercao;Por ID;4.05333;3.6;1.5518;8;comparacoes;30
+10000;Arvore BST;Remocao;Por ID;3.97333;3.45;2.19434;17;comparacoes;30
+100000;Lista Python;Insercao;Inicio;194.16;204.3;74.95478;100000;deslocamentos;30
+100000;Lista Python;Insercao;Meio;162.71667;152.85;95.65613;50000;deslocamentos;30
+100000;Lista Python;Insercao;Fim;131.38;135.0;77.45869;0;deslocamentos;30
+100000;Lista Python;Remocao;Inicio;21.95;18.7;10.06776;99999;deslocamentos;30
+100000;Lista Python;Remocao;Meio;9.62667;9.2;1.75655;49999;deslocamentos;30
+100000;Lista Python;Remocao;Fim;0.72333;0.5;0.51036;0;deslocamentos;30
+100000;Lista encadeada;Insercao;Inicio;5.29;4.6;3.57794;0;visitas_a_nos;30
+100000;Lista encadeada;Insercao;Meio;2288.29333;2198.4;214.67639;50000;visitas_a_nos;30
+100000;Lista encadeada;Insercao;Fim;4670.04667;4434.1;575.32178;100000;visitas_a_nos;30
+100000;Lista encadeada;Remocao;Inicio;3.85667;3.55;1.50989;0;visitas_a_nos;30
+100000;Lista encadeada;Remocao;Meio;2249.41667;2233.15;112.06991;50000;visitas_a_nos;30
+100000;Lista encadeada;Remocao;Fim;4694.20667;4484.75;1162.62084;99999;visitas_a_nos;30
+100000;Arvore BST;Insercao;Por ID;8.03667;8.05;1.62406;14;comparacoes;30
+100000;Arvore BST;Remocao;Por ID;9.55;8.85;2.63579;26;comparacoes;30
