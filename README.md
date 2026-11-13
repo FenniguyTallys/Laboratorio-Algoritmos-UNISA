@@ -177,3 +177,9 @@ A entrega final deve conter:
 ---
 
 **Projeto acadêmico — UNISA, 2026.**
+
+## 📄 Relatório Final
+
+O relatório acadêmico completo da UNISA apresenta a metodologia, os experimentos, os resultados estatísticos, os gráficos e as conclusões.
+
+📘 **[Clique aqui para visualizar o relatório completo em PDF](Relatório_Final_UNISA_Algoritmos.pdf)**
